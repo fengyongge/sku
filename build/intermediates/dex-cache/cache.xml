@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8b3d8978e024fec9f7879e9a4cd496ad4279d5b9">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\instant-run_343b3c044a5730d49efd5f6d8c5fd354ec229fa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b41606b55c9a443c110c45e9c57035e240c3cb73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_e0309b13583aee7fae211a441f435a21fcfd0b3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6244aaf2464d6bb411f84961e0a1370b428cbcf1">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ff08148d35839c3acad309548806b0870968f8a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d8e6cbb4d875a077d00691d3a70e43f1663ab5f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_673e17550a3a255662e8f7cc00017c8c7c7bc5fc.jar" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d3af3516828f1fafa6b10dfa75ec5043a8b5210a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\Desktop\git commit\sku\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_55877cd6af073df99ea478775e6cadac46a915be.jar" />
+    </item>
+
+</items>
